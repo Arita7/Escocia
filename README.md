@@ -1,0 +1,2 @@
+# Escocia
+Página sobre Escocia
