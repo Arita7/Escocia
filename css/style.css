@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue; 
+    font-family: Cambria;
+}
+main{
+    height: 800px;
+}
+#banderaE{
+    width: 100px;
+    height: 50px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+#navegacion1{
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+}
+#boton1{
+    position: relative;
+    left: 350px;
+    bottom: 100px;
+}
+#boton2{
+    position: relative;
+    left: 400px;
+    bottom: 100px;
+}
+#parte1{
+    position: relative;
+    width: 400px;
+    height: 700px;
+    left: 250px;
+    background-color: rgb(142, 214, 217);
+}
+#Castillo1{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 50px;
+}
+#Sub1{
+    position: absolute;
+    left: 140px;
+    background-color: rgb(142, 214, 217);
+}
+#parf1{
+    text-align: justify;
+    position: absolute;
+    background-color: rgb(142, 214, 217);
+}
+#Castillo2{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 50px;
+    top: 1px;
+}
+#parte2{
+    position: relative;
+    left: 1000px;
+    bottom: 700px;
+}
+#parf2{
+    text-align: justify;
+    width: 500px;
+}
+#art1{
+    position: relative;
+    bottom: 600px;
+    width: 1800px;
+    height: 400px;
+    left: 60px;
+}
+#Sub3{
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+#parf3{
+    position: absolute;
+    top: 120px;
+    width: 700px;
+    left: 30px;
+}
+#video1{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+footer{
+    position: absolute;
+    top: 1400px;
+    width: 100%;
+}
+.icono{
+    width:60px;
+    height:40px;
+    position: relative;
+    left: 250px;
+}
+.icono_2{
+    width:60px;
+    height:40px;
+    position: relative;
+    left: 500px;
+}
+#text1{
+    position: absolute;
+    left: 900px;
+    top: 70px;
+}
+#boton3{
+    position: absolute;
+    left: 1200px;
+    top: 70px;
+}
